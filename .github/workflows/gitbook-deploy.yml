@@ -18,7 +18,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Install GitBookk
+      - name: Install GitBook
         run: |
           npm install gitbook-cli -g
           gitbook install
