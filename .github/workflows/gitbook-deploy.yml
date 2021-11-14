@@ -32,7 +32,7 @@ jobs:
       - name: Generate Website
         run: |
           gitbook build . ./build
-          rm -rf ./build/.github
+          rm -rf ./build/.git
           echo "" > ./build/.nojekyll
 
       - name: Generate Ebooks
