@@ -1,0 +1,10 @@
+{"dictionaryDefinitions": [
+    {
+    "name": "practicalli",
+    "path": "./.cspell/custom-dictionary.txt",
+    "description": "Practicalli Custom Dictionary",
+    "addWords": true}
+],
+ "dictionaries": ["practicalli"],
+ "ignorePaths": ["**/*.yml", "**/*.yaml"]
+}
