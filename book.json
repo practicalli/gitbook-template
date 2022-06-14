@@ -43,7 +43,6 @@
         "anchor-headings-lambda",
         "callouts",
         "codeblock-disable-glossary",
-        "disqus",
         "folding-chapters",
         "ga",
         "-glossary",
@@ -74,9 +73,6 @@
             "ignore": [
                 "eval-clojure"
             ]
-        },
-        "disqus": {
-            "shortName": "practicalli"
         },
         "ga": {
             "token": ""
